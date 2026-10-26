@@ -18,7 +18,7 @@ O **Data Quest 8-bit** transforma o estudo de análise de dados em uma aventura.
 
 **Intenção:** tornar o aprendizado de dados mais leve, interativo e motivador, usando elementos de gamificação (XP, vidas, patentes, fases e bônus de curiosidade) e, ao mesmo tempo, praticar lógica de programação e design de conteúdo educativo.
 
-Foi pensado para **iniciantes**: a linguagem é simples e o código Python aparece de forma gradual, sem exigir que a pessoa digite nada.
+Foi pensado para **iniciantes**: a linguagem é simples e o código Python aparece de forma gradual, sem exigir que a pessoa digite código
 
 ## 🚀 Como rodar
 
