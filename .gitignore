@@ -1,0 +1,14 @@
+# Progresso salvo do jogador
+progresso_dataquest*.json
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Editores / sistema
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
