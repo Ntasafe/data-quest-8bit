@@ -139,7 +139,7 @@ Sugestões, correções de conteúdo e novas fases são bem-vindas! Abra uma *is
 
 ## 🤖 Créditos
 
-Projeto de aprendizado criado por **[SEU NOME]**, com apoio do assistente de IA **Claude (Anthropic)** no desenvolvimento do código e do conteúdo.
+Projeto de aprendizado criado por **[NATHAN ASAFE]**, com apoio do assistente de IA **Claude (Anthropic)** no desenvolvimento do código e do conteúdo.
 
 ## 📄 Licença
 
